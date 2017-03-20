@@ -1,0 +1,28 @@
+C:\Users\Sina\Desktop\Watchdog\Watchdog\bin\Debug\Watchdog.exe.config
+C:\Users\Sina\Desktop\Watchdog\Watchdog\bin\Debug\Watchdog.exe
+C:\Users\Sina\Desktop\Watchdog\Watchdog\bin\Debug\Watchdog.pdb
+C:\Users\Sina\Desktop\Watchdog\Watchdog\obj\Debug\Watchdog.csprojResolveAssemblyReference.cache
+C:\Users\Sina\Desktop\Watchdog\Watchdog\obj\Debug\Watchdog.Properties.Resources.resources
+C:\Users\Sina\Desktop\Watchdog\Watchdog\obj\Debug\Watchdog.csproj.GenerateResource.Cache
+C:\Users\Sina\Desktop\Watchdog\Watchdog\obj\Debug\Watchdog.exe
+C:\Users\Sina\Desktop\Watchdog\Watchdog\obj\Debug\Watchdog.pdb
+C:\Users\Sina\Desktop\My Anti Ransomware\Watchdog\Watchdog\bin\Debug\Watchdog.exe.config
+C:\Users\Sina\Desktop\My Anti Ransomware\Watchdog\Watchdog\obj\Debug\Watchdog.exe
+C:\Users\Sina\Desktop\My Anti Ransomware\Watchdog\Watchdog\obj\Debug\Watchdog.pdb
+C:\Users\Sina\Desktop\My Anti Ransomware\Watchdog\Watchdog\bin\Debug\Watchdog.exe
+C:\Users\Sina\Desktop\My Anti Ransomware\Watchdog\Watchdog\bin\Debug\Watchdog.pdb
+C:\Users\Sina\Desktop\My Anti Ransomware\Watchdog\Watchdog\obj\Debug\Watchdog.csprojResolveAssemblyReference.cache
+C:\Users\Sina\Desktop\My Anti Ransomware\Watchdog\Watchdog\obj\Debug\Watchdog.Properties.Resources.resources
+C:\Users\Sina\Desktop\My Anti Ransomware\Watchdog\Watchdog\obj\Debug\Watchdog.csproj.GenerateResource.Cache
+C:\Users\Sina\Desktop\My_Anti_Ransomware\Watchdog\Watchdog\bin\Debug\Watchdog.exe.config
+C:\Users\Sina\Desktop\My_Anti_Ransomware\Watchdog\Watchdog\obj\Debug\Watchdog.exe
+C:\Users\Sina\Desktop\My_Anti_Ransomware\Watchdog\Watchdog\obj\Debug\Watchdog.pdb
+C:\Users\Sina\Desktop\My_Anti_Ransomware\Watchdog\Watchdog\bin\Debug\Watchdog.exe
+C:\Users\Sina\Desktop\My_Anti_Ransomware\Watchdog\Watchdog\bin\Debug\Watchdog.pdb
+C:\Users\Sina\Desktop\My_Anti_Ransomware\Watchdog\Watchdog\obj\Debug\Watchdog.Properties.Resources.resources
+C:\Users\Sina\Desktop\My_Anti_Ransomware\Watchdog\Watchdog\obj\Debug\Watchdog.csproj.GenerateResource.Cache
+C:\Users\Sina\Desktop\My_Anti_Ransomware\Watchdog\Watchdog\bin\Debug\EntityFramework.dll
+C:\Users\Sina\Desktop\My_Anti_Ransomware\Watchdog\Watchdog\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sina\Desktop\My_Anti_Ransomware\Watchdog\Watchdog\bin\Debug\EntityFramework.xml
+C:\Users\Sina\Desktop\My_Anti_Ransomware\Watchdog\Watchdog\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sina\Desktop\My_Anti_Ransomware\Watchdog\Watchdog\obj\Debug\Watchdog.csprojResolveAssemblyReference.cache
