@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RedemptionAntiRansomwareModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AuditingZone">
+    <Key>
+      <PropertyRef Name="ZoneID" />
+    </Key>
+    <Property Name="ZoneID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ZonePath" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Dumps">
+    <Key>
+      <PropertyRef Name="DumpID" />
+    </Key>
+    <Property Name="DumpID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DumpPath" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Extensions">
+    <Key>
+      <PropertyRef Name="ExtID" />
+    </Key>
+    <Property Name="ExtID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ext" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Honeypot">
+    <Key>
+      <PropertyRef Name="HoneypotID" />
+    </Key>
+    <Property Name="HoneypotID" Type="int" Nullable="false" />
+    <Property Name="HoneypotPath" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityContainer Name="RedemptionAntiRansomwareModelStoreContainer">
+    <EntitySet Name="AuditingZone" EntityType="Self.AuditingZone" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Dumps" EntityType="Self.Dumps" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Extensions" EntityType="Self.Extensions" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Honeypot" EntityType="Self.Honeypot" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

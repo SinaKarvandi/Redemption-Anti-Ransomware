@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RedemptionAntiRansomwareModelStoreContainer" CdmEntityContainer="RedemptionAntiRansomwareEntities">
+    <EntitySetMapping Name="AuditingZones">
+      <EntityTypeMapping TypeName="RedemptionAntiRansomwareModel.AuditingZone">
+        <MappingFragment StoreEntitySet="AuditingZone">
+          <ScalarProperty Name="ZoneID" ColumnName="ZoneID" />
+          <ScalarProperty Name="ZonePath" ColumnName="ZonePath" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Dumps">
+      <EntityTypeMapping TypeName="RedemptionAntiRansomwareModel.Dump">
+        <MappingFragment StoreEntitySet="Dumps">
+          <ScalarProperty Name="DumpID" ColumnName="DumpID" />
+          <ScalarProperty Name="DumpPath" ColumnName="DumpPath" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Extensions">
+      <EntityTypeMapping TypeName="RedemptionAntiRansomwareModel.Extension">
+        <MappingFragment StoreEntitySet="Extensions">
+          <ScalarProperty Name="ExtID" ColumnName="ExtID" />
+          <ScalarProperty Name="Ext" ColumnName="Ext" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Honeypots">
+      <EntityTypeMapping TypeName="RedemptionAntiRansomwareModel.Honeypot">
+        <MappingFragment StoreEntitySet="Honeypot">
+          <ScalarProperty Name="HoneypotPath" ColumnName="HoneypotPath" />
+          <ScalarProperty Name="HoneypotID" ColumnName="HoneypotID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,10 @@
+C:\Users\Sina\Desktop\FlatUI-master\FlatUI-master\src\FlatUI.Examples\obj\Debug\FlatUI.Examples.csprojResolveAssemblyReference.cache
+C:\Users\Sina\Desktop\FlatUI-master\FlatUI-master\src\FlatUI.Examples\obj\Debug\FlatUI.Examples.BasicExample.resources
+C:\Users\Sina\Desktop\FlatUI-master\FlatUI-master\src\FlatUI.Examples\obj\Debug\FlatUI.Examples.csproj.GenerateResource.Cache
+C:\Users\Sina\Desktop\FlatUI-master\FlatUI-master\src\FlatUI.Examples\obj\Debug\FlatUI.Examples.Main.resources
+C:\Users\Sina\Desktop\FlatUI-master\FlatUI-master\bin\Debug\Anti Ransomware.exe.config
+C:\Users\Sina\Desktop\FlatUI-master\FlatUI-master\bin\Debug\Anti Ransomware.exe
+C:\Users\Sina\Desktop\FlatUI-master\FlatUI-master\bin\Debug\Anti Ransomware.pdb
+C:\Users\Sina\Desktop\FlatUI-master\FlatUI-master\src\FlatUI.Examples\obj\Debug\Anti_Ransomware.Properties.Resources.resources
+C:\Users\Sina\Desktop\FlatUI-master\FlatUI-master\src\FlatUI.Examples\obj\Debug\Anti Ransomware.exe
+C:\Users\Sina\Desktop\FlatUI-master\FlatUI-master\src\FlatUI.Examples\obj\Debug\Anti Ransomware.pdb

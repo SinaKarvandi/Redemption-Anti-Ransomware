@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RedemptionAntiRansomwareModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AuditingZone">
+    <Key>
+      <PropertyRef Name="ZoneID" />
+    </Key>
+    <Property Name="ZoneID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ZonePath" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Dump">
+    <Key>
+      <PropertyRef Name="DumpID" />
+    </Key>
+    <Property Name="DumpID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DumpPath" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Extension">
+    <Key>
+      <PropertyRef Name="ExtID" />
+    </Key>
+    <Property Name="ExtID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ext" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="RedemptionAntiRansomwareEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AuditingZones" EntityType="Self.AuditingZone" />
+    <EntitySet Name="Dumps" EntityType="Self.Dump" />
+    <EntitySet Name="Extensions" EntityType="Self.Extension" />
+    <EntitySet Name="Honeypots" EntityType="RedemptionAntiRansomwareModel.Honeypot" />
+  </EntityContainer>
+  <EntityType Name="Honeypot">
+    <Key>
+      <PropertyRef Name="HoneypotID" />
+    </Key>
+    <Property Name="HoneypotID" Type="Int32" Nullable="false" />
+    <Property Name="HoneypotPath" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>
