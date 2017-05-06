@@ -1,6 +1,6 @@
 # Redemption-Anti-Ransomware
 
-This source is published from :  https://iranian.computer/a-new-anti-ransomware-idea/ 
+This source is published from :  https://iranian.computer/topics/a-new-anti-ransomware-idea/ 
 
 please visit there for every question or problem.
 
